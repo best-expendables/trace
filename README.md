@@ -1,7 +1,7 @@
 # Trace library
 
 ```go
-import "bitbucket.org/snapmartinc/trace"
+import "github.com/best-expendables/trace"
 ```
 
 ##### example in router:
